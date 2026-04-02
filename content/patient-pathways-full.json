@@ -1,0 +1,83 @@
+{
+  "content": [
+    {
+      "name": "Build Your Own Organization",
+      "stories": [
+        {
+          "slug": "emily-kramer-golinkoff",
+          "name": {
+            "last": "Kramer-Golinkoff",
+            "first": "Emily"
+          },
+          "blurb": "I created a non-profit organization to fund, accelerate, and drive more research and drug development for nonsense mutations of Cystic Fibrosis."
+        }
+      ],
+      "slug": "build-your-own-organization"
+    },
+    {
+      "slug": "working-within-an-organization-or-system",
+      "name": "Working Within An Organization Or System",
+      "stories": [
+        {
+          "slug": "erin-moore",
+          "name": {
+            "first": "Erin",
+            "last": "Moore"
+          },
+          "blurb": "Through engagement with peers online, I recognized the unintended variation in care and outcomes across the CF community despite having a strong advocacy organization, accredited care center network and patient registry."
+        },
+        {
+          "slug": "corrie-painter",
+          "name": {
+            "last": "Painter",
+            "first": "Corrie"
+          },
+          "blurb": "I am connecting cancer patients and researchers in order to co-design studies that generate large scale clinically annotated genomics data for deposition in the public domain."
+        }
+      ]
+    },
+    {
+      "slug": "working-outside-of-an-organization",
+      "name": "Working Outside of An Organization",
+      "stories": [
+        {
+          "slug": "dana-lewis",
+          "name": {
+            "last": "Lewis",
+            "first": "Dana"
+          },
+          "blurb": "I open sourced (publicly shared) code & instructions for others to build their own APS, and built and support a community to reach and connect others who wanted to do the same. "
+        },
+        {
+          "slug": "hugo-campos",
+          "name": {
+            "first": "Hugo",
+            "last": "Campos"
+          },
+          "blurb": "I want to raise awareness of the fact that patients with pacemakers and other implantable devices have no authority or sovereignty over the data collected from our cardiac implantable electronic devices. "
+        }
+      ]
+    },
+    {
+      "slug": "multiple-pathways-in-outside-of-and-around-organizations",
+      "name": "Multiple pathways in, outside of, and around organizations",
+      "stories": [
+        {
+          "slug": "liz-salmi",
+          "name": {
+            "first": "Liz",
+            "last": "Salmi"
+          },
+          "blurb": "Patient innovators and researchers must partner with traditional researchers to bridge the gap between our two cultures. What is happening right now is not an us versus them. This is about building honest and respectful partnerships. We can learn a lot from each other."
+        }
+      ]
+    }
+  ],
+  "txt": [
+    {
+      "text": {
+        "html": "<p>You&#39;re not alone. There are many patients who&#39;ve taken similar pathways as you. And even if your pathway is new, there are elements you can learn from other patients&#39; journeys. Take a look at some of the pathways other patients have experienced, and consider sharing your own pathway experience!</p>\n"
+      }
+    }
+  ]
+}
