@@ -1,0 +1,348 @@
+{
+  "exportDate": "2026-04-02T19:24:40.043932+00:00",
+  "sourceBaseUrl": "https://partner.openingpathways.org",
+  "quizFieldsByPage": {
+    "1": [
+      {
+        "type": "choice",
+        "pageOrder": 1,
+        "page": 1,
+        "prompt": "How did you end up on this site and decide to take this quiz?",
+        "note": {
+          "html": ""
+        },
+        "slug": "how-did-you-end-up-on-this-site-and-decide-to-take-this-quiz",
+        "responsesObj": [
+          {
+            "txt": "A patient with whom I hope to work recommended this tool",
+            "field": false
+          },
+          {
+            "txt": "An institution or funder recommended this tool",
+            "field": true
+          },
+          {
+            "txt": "Other",
+            "field": true
+          },
+          {
+            "txt": "A non-patient colleague recommended this tool",
+            "field": false
+          },
+          {
+            "txt": "I found this tool searching the web",
+            "field": false
+          }
+        ],
+        "pageName": "Welcome"
+      },
+      {
+        "slug": "why-are-you-taking-this-quiz",
+        "responsesObj": [
+          {
+            "txt": "I plan to partner with a patient on a specific project",
+            "field": false
+          },
+          {
+            "txt": "I have a project and want to involve patients",
+            "field": false
+          },
+          {
+            "txt": "I have never worked with a patient before but would like to in the future",
+            "field": false
+          },
+          {
+            "txt": "Other",
+            "field": true
+          }
+        ],
+        "type": "choice",
+        "pageOrder": 2,
+        "page": 1,
+        "prompt": "Why are you taking this quiz?",
+        "note": {
+          "html": ""
+        }
+      }
+    ],
+    "2": [
+      {
+        "slug": "if-all-you-have-is-a-hammer",
+        "responsesObj": [],
+        "type": "text",
+        "pageOrder": 1,
+        "page": 2,
+        "prompt": "If all you have is a hammer...",
+        "note": {
+          "html": "<p><em>“I suppose it is tempting, if the only tool you have is a hammer, to treat everything as if it were a nail”</em> - Abraham Maslow (<a href=\"(https://en.wikipedia.org/wiki/Law_of_the_instrument\">see more here</a> about why we are asking about your ‘hammer’)</p>\n<p>Generally speaking, what are your method(s) and tools of choice? What activities do you find yourself consistently doing across different projects? In other words, what is your current hammer?</p>\n"
+        },
+        "pageName": "If all you have is a hammer...",
+        "halfSize": true
+      }
+    ],
+    "3": [
+      {
+        "slug": "what-roles-are-you-playing-now",
+        "responsesObj": [
+          {
+            "txt": "Acquiring financial resources",
+            "field": false
+          },
+          {
+            "txt": "Connector node in social/professional networks",
+            "field": false
+          },
+          {
+            "txt": "Expertise in a field",
+            "field": false
+          },
+          {
+            "txt": "Applying technical skills  (computer science, engineering, statistics)",
+            "field": false
+          },
+          {
+            "txt": "Providing feedback to partners",
+            "field": false
+          },
+          {
+            "txt": "Expertise in a method",
+            "field": false
+          },
+          {
+            "txt": "Other expertise",
+            "field": true
+          },
+          {
+            "txt": "Other",
+            "field": true
+          }
+        ],
+        "type": "choice",
+        "pageOrder": 1,
+        "page": 3,
+        "prompt": "What roles are you playing now?",
+        "note": {
+          "html": "<p>Working in teams, especially across sectors, experiences, and expertise, is complicated. Collaborators take on different roles to accomplish their shared goals. What roles are you playing now in your current projects? (Please select all that apply.)</p>\n"
+        },
+        "pageName": "Roles",
+        "checkboxes": true
+      },
+      {
+        "slug": "what-roles-do-you-envision-yourself-playing-in-prospective-work-with-patient-s",
+        "responsesObj": [
+          {
+            "txt": "Unstucking agent",
+            "field": false
+          },
+          {
+            "txt": "Connector to new resources",
+            "field": false
+          },
+          {
+            "txt": "Feedback on research, innovations, or ideas",
+            "field": false
+          },
+          {
+            "txt": "Chief listener (including bearing witness - see openingpathways.org/bearing-witness)",
+            "field": false
+          },
+          {
+            "txt": "Connector to new people",
+            "field": false
+          },
+          {
+            "txt": "Offering skills and capacity to address patient interests",
+            "field": false
+          },
+          {
+            "txt": "Offering outside perspectives",
+            "field": false
+          },
+          {
+            "txt": "Other",
+            "field": true
+          }
+        ],
+        "type": "choice",
+        "pageOrder": 2,
+        "page": 3,
+        "prompt": "What roles do you envision yourself playing in prospective work with patient(s)?",
+        "note": {
+          "html": "<p>Please select all that apply:</p>\n"
+        },
+        "checkboxes": true
+      },
+      {
+        "slug": "what-roles-do-you-envision-your-patient-partner-s-playing-in-this-prospective-work",
+        "responsesObj": [],
+        "type": "text",
+        "pageOrder": 3,
+        "page": 3,
+        "prompt": "What roles do you envision your patient partner(s) playing in this prospective work?",
+        "note": {
+          "html": ""
+        },
+        "halfSize": true
+      }
+    ],
+    "4": [
+      {
+        "slug": "please-list-your-current-pending-and-dormant-projects",
+        "responsesObj": [],
+        "type": "text",
+        "pageOrder": 1,
+        "page": 4,
+        "prompt": "Please list your current, pending, and dormant projects.",
+        "note": {
+          "html": "<p>Please list your current, pending, and dormant projects. Feel free to be general, the idea is to get a sense of your existing work portfolio. Remember to include things like writing projects or side consulting projects that may occupy your time. </p>\n"
+        },
+        "pageName": "Time & Resources"
+      },
+      {
+        "slug": "do-you-feel-overwhelmed-already-listing-all-that",
+        "responsesObj": [],
+        "type": "text",
+        "pageOrder": 2,
+        "page": 4,
+        "prompt": "Do you feel overwhelmed already listing all that? ",
+        "note": {
+          "html": "<p>How would you take on new work given your portfolio?</p>\n<p>Would you give up or forgo any of your existing projects to devote time and effort to this prospective work with patients?</p>\n<p>If yes, which ones?</p>\n"
+        },
+        "halfSize": true
+      },
+      {
+        "slug": "what-is-your-current-institutional-organizational-support-for-working-with-patients",
+        "responsesObj": [],
+        "type": "text",
+        "pageOrder": 3,
+        "page": 4,
+        "prompt": "What is your current institutional/organizational support for working with patients?",
+        "note": {
+          "html": "<p>What is your current institutional/organizational support for working with patients, and potentially pursuing products of interest to patients that your institution/organization doesn’t generally pursue? </p>\n<p>Might they be supportive? Why/not? How do you know?</p>\n"
+        },
+        "halfSize": true
+      },
+      {
+        "slug": "do-you-or-someone-you-know-have-the-first-hand-experience-in-your-institution-working-with-patients-as-partners-in-research",
+        "responsesObj": [],
+        "type": "text",
+        "pageOrder": 4,
+        "page": 4,
+        "prompt": "Do you or someone you know have the first-hand experience in your institution working with patients as partners in research? ",
+        "note": {
+          "html": "<p>If yes, please describe this experience:</p>\n"
+        },
+        "halfSize": true
+      }
+    ],
+    "5": [
+      {
+        "slug": "what-outcomes-from-your-prospective-partnership-do-you-think-are-most-important-to-your-potential-patient-partner",
+        "responsesObj": [],
+        "type": "text",
+        "pageOrder": 1,
+        "page": 5,
+        "prompt": "What outcomes from your prospective partnership do you think are most important to your potential patient partner?",
+        "required": false,
+        "note": {
+          "html": ""
+        },
+        "halfSize": true
+      },
+      {
+        "slug": "what-does-success-look-like-from-your-perspective-for-your-prospective-work-with-patients",
+        "responsesObj": [],
+        "type": "text",
+        "pageOrder": 2,
+        "page": 5,
+        "prompt": "What does success look like, from your perspective, for your prospective work with patients?",
+        "note": {
+          "html": ""
+        },
+        "pageName": "Outcomes",
+        "halfSize": true
+      },
+      {
+        "slug": "what-specific-products-would-you-hope-to-produce-through-this-work",
+        "responsesObj": [],
+        "type": "text",
+        "pageOrder": 3,
+        "page": 5,
+        "prompt": "What specific products would you hope to produce through this work? ",
+        "note": {
+          "html": "<p>Or, what processes do you hope to alter as a result of your work?</p>\n"
+        },
+        "halfSize": true
+      },
+      {
+        "slug": "how-might-you-be-different-at-the-end-of-this-prospective-project-or-partnership",
+        "responsesObj": [],
+        "type": "text",
+        "pageOrder": 4,
+        "page": 5,
+        "prompt": "How might you be different at the end of this prospective project or partnership?",
+        "note": {
+          "html": ""
+        },
+        "halfSize": true
+      }
+    ],
+    "6": [
+      {
+        "slug": "what-do-you-think-your-potential-patient-partner-s-knows-that-you-do-not-know",
+        "responsesObj": [],
+        "type": "text",
+        "pageOrder": 1,
+        "page": 6,
+        "prompt": "What do you think your potential patient partner(s) knows that you do not know?",
+        "required": false,
+        "note": {
+          "html": ""
+        },
+        "halfSize": true
+      },
+      {
+        "slug": "what-would-you-like-to-learn-or-what-skills-would-you-like-to-grow-in-working-with-patient-partners",
+        "responsesObj": [],
+        "type": "text",
+        "pageOrder": 2,
+        "page": 6,
+        "prompt": "What would you like to learn, or what skills would you like to grow, in working with patient partners?",
+        "required": false,
+        "halfSize": true,
+        "note": {
+          "html": ""
+        }
+      },
+      {
+        "slug": "how-might-your-differences-potentially-influence-the-collaboration-you-are-considering-with-a-patient-partner",
+        "responsesObj": [],
+        "type": "text",
+        "pageOrder": 3,
+        "page": 6,
+        "prompt": "How might your differences potentially influence the collaboration you are considering with a patient partner?",
+        "required": false,
+        "note": {
+          "html": "<p>There might be differences in time availability, current resources, background skills, and &quot;power&quot; (perceived or structural) between you and your prospective patient partner. How might those differences potentially influence the collaboration you are considering with a patient partner?</p>\n"
+        },
+        "halfSize": true
+      }
+    ]
+  },
+  "textSnippets": {
+    "quiz-landing-intro": {
+      "text": {
+        "html": "<p>We estimate this exercise will take you about 20 minutes. You&#39;ll be able to save, print, or share your responses when you finish the quiz.</p>\n<p>This quiz was created to help you reflect on your readiness to partner with a patient. It has no “right answers.” The questions are meant to help you reflect on your priorities, your workload, how much space you have to partner, and the potential biases you may be bringing to the partnership. If you do not have the time right now to read, reflect, and respond, you can bookmark this link, put it in your to-do list, and come back when you have time.</p>\n"
+      }
+    },
+    "quiz-results-intro": {
+      "text": {
+        "html": "<p>It’s ok if you realize that you are not ready to evolve your work in this direction. Feel free to read a few <a href=\"/narratives\">partner narratives</a> for further inspiration before you go, or bookmark this site for future use. </p>\n<p>It’s ok if you don’t have a patient partner! Save your responses, reflect, and check out some of <a href=\"/resources\">the resources</a>, which might ultimately help you find your future patient partner. </p>\n<p>If you have a patient partner already, or one in mind, here are some potential ways to follow up and show them your results:</p>\n<ul>\n<li>Hi! This exercise was really helpful for me thinking through how we might work together, and I’d love to talk through it with you.</li>\n<li>Hi, This exercise really helped me understand my strengths and goals, and that I need to understand yours better for this to work. I’m not sure exactly where to go from here, but maybe you have some ideas based on the attached responses?</li>\n<li>Hi, This exercise walked me through my skills, commitments, and perspectives, and I’m realizing I’m probably not best positioned to partner with you in this work. I’m happy to be a resource and to try and help you find a better fit.</li>\n</ul>\n"
+      }
+    }
+  },
+  "homeQuizTeaser": {
+    "quizHeader": "Readiness quiz",
+    "quizBlurb": "When you have 20 minutes set aside, take the readiness quiz. You'll be able to save, print, or share your responses when you're done. "
+  }
+}
